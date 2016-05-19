@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'In the hustle and bustle of life today, we often forget to just stop… look around us… listen… and breeeeathe! Juggling busy schedules and constant multi-tasking, it’s not easy to take time out and we can become disconnected from our true self, succumbing to the hectic pace like robot minions. '
-datePublished: '2016-05-19T19:17:01.002Z'
-dateModified: '2016-05-19T19:16:48.449Z'
+datePublished: '2016-05-19T19:20:06.470Z'
+dateModified: '2016-05-19T19:18:43.345Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-19-wellness-events.md
