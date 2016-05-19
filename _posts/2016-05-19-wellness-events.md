@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: WELLNESS EVENTS
-datePublished: '2016-05-19T18:34:20.662Z'
-dateModified: '2016-05-19T18:34:11.517Z'
+datePublished: '2016-05-19T18:39:31.608Z'
+dateModified: '2016-05-19T18:34:23.180Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-19-wellness-events.md
