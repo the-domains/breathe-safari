@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'In the hustle and bustle of life today, we often forget to just stop… look around us… listen… and breeeeathe! Juggling busy schedules and constant multi-tasking, it’s not easy to take time out and we can become disconnected from our true self, succumbing to the hectic pace like robot minions.BREATHE SAFARI offers a range of holistic health retreats and wellness workshops to rejuvenate the body, revitalise the mind, and re-energise the soul. Whether it’s for a half-day, overnight or weekend, BREATHE SAFARI has created something to suit everyone.'
-datePublished: '2016-05-19T19:29:20.713Z'
-dateModified: '2016-05-19T19:29:12.012Z'
+datePublished: '2016-05-19T19:31:17.864Z'
+dateModified: '2016-05-19T19:29:24.525Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-19-wellness-events.md
