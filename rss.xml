@@ -4,8 +4,15 @@
         <description><![CDATA[Breathe Safari]]></description>
         <link>https://thegrid.ai/breathe-safari/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 May 2016 18:32:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 May 2016 18:34:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/breathe-safari/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>WELLNESS EVENTS</p>]]></description>
+            <link>https://thegrid.ai/breathe-safari/wellness-events/index.html</link>
+            <guid isPermaLink="false">f6535fba-6ca2-4aef-bab4-fde88ba71883</guid>
+            <pubDate>Thu, 19 May 2016 18:34:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf7eaf34-f349-4925-b4d5-3e670e55b573.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/breathe-safari/in-the-hustle-and-bustle-of-life-today-we-often-forget-to-j/index.html</link>
             <guid isPermaLink="false">c808f503-7b62-4aaa-80ba-849bd106befb</guid>
             <pubDate>Thu, 19 May 2016 17:23:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>WELLNESS EVENTS</p>]]></description>
-            <link>https://thegrid.ai/breathe-safari/wellness-events/index.html</link>
-            <guid isPermaLink="false">f6535fba-6ca2-4aef-bab4-fde88ba71883</guid>
-            <pubDate>Thu, 19 May 2016 13:48:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
