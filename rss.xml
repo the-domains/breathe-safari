@@ -4,8 +4,15 @@
         <description><![CDATA[WELLNESS EVENTS]]></description>
         <link>https://thegrid.ai/breathe-safari/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 09:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 09:15:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/breathe-safari/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I feel really Zen after that- Kate Wilkinson</p>]]></description>
+            <link>https://thegrid.ai/breathe-safari/i-feel-really-zen-after-that-kate-wilkinson/index.html</link>
+            <guid isPermaLink="false">d41ee25d-e7eb-40a6-8498-1c980d4abdea</guid>
+            <pubDate>Sun, 22 May 2016 09:15:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The sound meditations were really amazing- Jeanne</p>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/breathe-safari/live-your-best-life-3-join-our-community/index.html</link>
             <guid isPermaLink="false">117393fc-3361-49f7-bdc1-603a0097eac1</guid>
             <pubDate>Thu, 19 May 2016 17:26:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>CHOOSE YOUR ADVENTURE 2 OPTIONS ARE LIMITLESS ​</p>]]></description>
-            <link>https://thegrid.ai/breathe-safari/choose-your-adventure-2-options-are-limitless/index.html</link>
-            <guid isPermaLink="false">1f760ff4-ca17-4b26-b767-2e7279c10785</guid>
-            <pubDate>Thu, 19 May 2016 17:25:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
