@@ -1,7 +1,7 @@
 name: Breathe Safari
 favicon: null
 layout_spectrum: 0.26726
-typography_spectrum: 0.9350899173878133
+typography_spectrum: 0.52813
 title: WELLNESS EVENTS
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#91472e'
     - '#e0d8d8'
     - '#dc9f83'
-  brandStrength: 0.4375
+  brandStrength: 0.5
   lightness: 0.25
   saturation: 0.242650835076347
   rhythmicContrast: 0.25
