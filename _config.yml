@@ -1,29 +1,41 @@
-name: Breathe Safari
-favicon: null
-layout_spectrum: 0.19309
-typography_spectrum: 0.52813
 title: WELLNESS EVENTS
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.242650835076347
+  brandStrength: 0.5
+  lightness: 0.25
+  brandColors:
+    - '#010101'
+    - '#FFFFFF'
+    - '#3E3636'
+    - '#D6AF28'
+    - '#CE7444'
+  rhythmicContrast: 0.25
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
+name: Breathe Safari
+favicon: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#bb7c5d'
-    - '#91472e'
-    - '#e0d8d8'
-    - '#dc9f83'
-  brandStrength: 0.5
-  lightness: 0.25
-  saturation: 0.242650835076347
-  rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.52813
+layout_spectrum: 0.19309
